@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2491",
+    "description": "Açúcar Refinado União 1kg",
+    "price": 4.09,
+    "image_urls": {
+      "image120px": "https://res.cloudinary.com/dti85ldyv/image/upload/c_scale,h_120/f_jpg/b_white,c_limit,d_product-thumb_ybwmng.jpg/v1/products/7891910000197"
+    }
+  },
+  {
+    "id": "4345",
+    "description": "Leite UHT Integral Elegê Caixa 1l",
+    "price": 6.89,
+    "image_urls": {
+      "image120px": "https://res.cloudinary.com/dti85ldyv/image/upload/c_scale,h_120/f_jpg/b_white,c_limit,d_product-thumb_ybwmng.jpg/v1/products/7896079500151"
+    }
+  },
+  {
+    "id": "3242",
+    "description": "Bebida Adoçada Guaraná Guaravita Copo 290ml",
+    "price": 2.49,
+    "image_urls": {
+      "image120px": "https://res.cloudinary.com/dti85ldyv/image/upload/c_scale,h_300/f_jpg,fl_progressive/b_white,c_limit,d_product-thumb_ybwmng.jpg/v1/products/7898923217031"
+    }
+  },
+  {
+    "id": "9074",
+    "description": "Óleo de Soja Soya Garrafa 900ml",
+    "price": 7.39,
+    "image_urls": {
+      "image120px": "https://res.cloudinary.com/dti85ldyv/image/upload/c_scale,h_120/f_jpg/b_white,c_limit,d_product-thumb_ybwmng.jpg/v1/products/7891107101621"
+    }
+  },
+  {
+    "id": "9074",
+    "description": "Biscoito Maisena Piraquê Pacote 200g",
+    "price": 3.49,
+    "image_urls": {
+      "image120px": "https://res.cloudinary.com/dti85ldyv/image/upload/c_scale,h_300/f_jpg,fl_progressive/b_white,c_limit,d_product-thumb_ybwmng.jpg/v1/products/7896024722324"
+    }
+  }
+]
