@@ -19,6 +19,14 @@
 - `node`
 - `yarn`
 
+## Primeiros passos
+
+Primeiro, copie este repositório para seu perfil do GitHub fazendo um _fork_. Caso não saiba como fazer, [esse post](https://medium.com/@abnerborgonha/como-fazer-um-fork-de-uma-projeto-no-github-9c78f2899bac) explica o conceito e o passo a passo.
+
+Em seguida, clone o repositório **a partir da cópia que fez em seu perfil** em sua máquina. A [documentação](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) oficial do GitHub explica como fazer.
+
+Não se esqueça de deixar seu repositório público para que consigamos vê-lo!
+
 ## Como rodar o projeto
 
 - No diretório raíz do projeto, lançar o comando `yarn` no terminal para instalar as dependências.
